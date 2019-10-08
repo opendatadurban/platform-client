@@ -133,7 +133,7 @@
     "ushahidi-platform-pattern-library": "^3.12.3"
   },
   "engines": {
-    "node": ">=10 <=11"
+    "node": ">=4.0"
   },
   "greenkeeper": {
     "ignore": [
