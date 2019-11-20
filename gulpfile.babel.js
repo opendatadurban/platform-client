@@ -230,7 +230,7 @@ gulp.task('serve:static', function() {
         ui: false,
         codeSync: false,
         open: false,
-        // ghostMode: false,
+        ghostMode: false,
         middleware: [
           historyApiFallback()
         ]
